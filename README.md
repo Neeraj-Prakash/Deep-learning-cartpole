@@ -9,5 +9,5 @@ This program should run on any machine having python 3.x installed.
 Although you will need the following libraries of python3 to run it.  
 -> Tensorflow (cpu or gpu )  
 -> gym (the openai game environment)  
--> tflearn
+-> tflearn  
 if you dont have the above libraries . just a quick "pip install <library_name>" will do the trick.
